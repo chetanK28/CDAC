@@ -1,6 +1,6 @@
 public class HollowPyramid {
     public static void main(String[] args) {
-        int n = 5; // Height of pyramid
+        int n = 6; // Height of pyramid
 
         for (int i = 1; i <= n; i++) {
             for (int j = i; j < n; j++) {
